@@ -10,6 +10,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="html5" width="65" height="65"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="65" height="65"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="html5" width="65" height="65"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="html5" width="65" height="65"/>
 </div>
 
 ## Tools:
