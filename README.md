@@ -27,7 +27,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" alt="html5" width="65" height="65"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="html5" width="65" height="65"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="html5" width="65" height="65"/>
-  <img src=https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="html5" width="65" height="65"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="html5" width="65" height="65"/>
 </div>
 
 <div display="flex">
