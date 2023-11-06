@@ -39,6 +39,7 @@
 
 <div display="flex">
   <img src="https://www.swiftbysundell.com/images/discover/swiftui/icon.png" alt="html5" width="65" height="65"/>
+  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/uikit-logo.png" alt="html5" width="65" height="65"/>
 </div>
 
 <h2>Connect with me: </h2>
