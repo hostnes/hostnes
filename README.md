@@ -37,6 +37,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="html5" width="65" height="65"/>
 </div>
 
+<div display="flex">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.swiftbysundell.com%2Fdiscover%2Fswiftui&psig=AOvVaw3lo9DqpFhF2tCr_3nNbuI6&ust=1699347960022000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjmlM6Cr4IDFQAAAAAdAAAAABAE" alt="html5" width="65" height="65"/>
+</div>
+
 <h2>Connect with me: </h2>
 <a href="https://t.me/hostnes"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/800px-Telegram_Messenger.png" alt="html5" width="65" height="65"/> </a>
 
