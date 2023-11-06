@@ -38,5 +38,5 @@
 </div>
 
 <h2>Connect with me: </h2>
-<a href="https://t.me/welldone_yml"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/800px-Telegram_Messenger.png" alt="html5" width="65" height="65"/> </a>
+<a href="https://t.me/hostnes"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/800px-Telegram_Messenger.png" alt="html5" width="65" height="65"/> </a>
 
