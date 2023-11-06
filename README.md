@@ -38,7 +38,7 @@
 </div>
 
 <div display="flex">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.swiftbysundell.com%2Fdiscover%2Fswiftui&psig=AOvVaw3lo9DqpFhF2tCr_3nNbuI6&ust=1699347960022000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjmlM6Cr4IDFQAAAAAdAAAAABAE" alt="html5" width="65" height="65"/>
+  <img src="https://www.swiftbysundell.com/images/discover/swiftui/icon.png" alt="html5" width="65" height="65"/>
 </div>
 
 <h2>Connect with me: </h2>
