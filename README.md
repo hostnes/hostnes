@@ -42,6 +42,11 @@
   <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/uikit-logo.png" alt="html5" width="65" height="65"/>
 </div>
 
+## English LVL:
+<div display="flex">
+  <img src="https://static.wikia.nocookie.net/counterstrike/images/9/94/Csgo_c4_csgo_trailer-1-.png/revision/latest/scale-to-width-down/250?cb=20160502165335&path-prefix=ru" alt="html5" width="65" height="65"/>
+</div>
+
 <h2>Connect with me: </h2>
 <a href="https://t.me/hostnes"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/800px-Telegram_Messenger.png" alt="html5" width="65" height="65"/> </a>
 
