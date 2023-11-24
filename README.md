@@ -48,5 +48,7 @@
 </div>
 
 <h2>Connect with me: </h2>
-<a href="https://t.me/hostnes"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/800px-Telegram_Messenger.png" alt="html5" width="65" height="65"/> </a>
+<a style="margin-bottom: 50px" href="https://t.me/hostnes"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/800px-Telegram_Messenger.png" alt="html5" width="65" height="65"/> </a>
+
+## [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=hostnes&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
