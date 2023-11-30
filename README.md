@@ -50,5 +50,9 @@
 <h2>Connect with me: </h2>
 <a style="margin-bottom: 50px" href="https://t.me/hostnes"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/800px-Telegram_Messenger.png" alt="html5" width="65" height="65"/> </a>
 
-## [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=hostnes&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)
+## 
+<div display="flex">
+  <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=hostnes&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars" style="height: 200px; margin-right: 200px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hostnes&layout=compact" style="height: 200px">
+</div>
 
