@@ -1,5 +1,5 @@
 ## About: 
-*Miroslav 17 y.o. Minsk*
+*Miroslav, Minsk*
 
 ## Languages:
 <div display="flex">
