@@ -12,60 +12,68 @@
 <br>
 
 <div align="center">
-  <h3>Focus</h3>
+  <h3>Scope</h3>
 
-  <div>
-    <div align="center" style="display:inline-block;width:165px;padding:10px 6px;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/telegram/FFFFFF" />
-        <img alt="Telegram" src="https://cdn.simpleicons.org/telegram/000000" height="34" />
-      </picture>
-      <br>
-      <b>Telegram</b>
-      <br>
-      <sub>Mini Apps · Bots</sub>
-    </div>
-    <div align="center" style="display:inline-block;width:165px;padding:10px 6px;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/FFFFFF" />
-        <img alt="Backend" src="https://cdn.simpleicons.org/python/000000" height="34" />
-      </picture>
-      <br>
-      <b>Backend</b>
-      <br>
-      <sub>APIs · Services · Jobs</sub>
-    </div>
-    <div align="center" style="display:inline-block;width:165px;padding:10px 6px;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/selenium/FFFFFF" />
-        <img alt="Automation" src="https://cdn.simpleicons.org/selenium/000000" height="34" />
-      </picture>
-      <br>
-      <b>Automation</b>
-      <br>
-      <sub>Parsing · Flows</sub>
-    </div>
-    <div align="center" style="display:inline-block;width:165px;padding:10px 6px;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ton/FFFFFF" />
-        <img alt="TON" src="https://cdn.simpleicons.org/ton/000000" height="34" />
-      </picture>
-      <br>
-      <b>TON</b>
-      <br>
-      <sub>Crypto · Integrations</sub>
-    </div>
-    <div align="center" style="display:inline-block;width:165px;padding:10px 6px;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF" />
-        <img alt="Web" src="https://cdn.simpleicons.org/nextdotjs/000000" height="34" />
-      </picture>
-      <br>
-      <b>Web Apps</b>
-      <br>
-      <sub>Sites · Interfaces · UI</sub>
-    </div>
-  </div>
+  <table
+    role="presentation"
+    cellspacing="0"
+    cellpadding="0"
+    border="0"
+    style="border:none !important;border-collapse:separate !important;border-spacing:18px 10px !important;"
+  >
+    <tr>
+      <td align="center" width="165" style="border:none !important;padding:0 !important;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/telegram/FFFFFF" />
+          <img alt="Telegram" src="https://cdn.simpleicons.org/telegram/000000" height="34" />
+        </picture>
+        <br>
+        <b>Telegram</b>
+        <br>
+        <sub>Mini Apps · Bots</sub>
+      </td>
+      <td align="center" width="165" style="border:none !important;padding:0 !important;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/FFFFFF" />
+          <img alt="Backend" src="https://cdn.simpleicons.org/python/000000" height="34" />
+        </picture>
+        <br>
+        <b>Backend</b>
+        <br>
+        <sub>APIs · Services · Jobs</sub>
+      </td>
+      <td align="center" width="165" style="border:none !important;padding:0 !important;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF" />
+          <img alt="Web Apps" src="https://cdn.simpleicons.org/nextdotjs/000000" height="34" />
+        </picture>
+        <br>
+        <b>Web Apps</b>
+        <br>
+        <sub>Sites · Interfaces · UI</sub>
+      </td>
+      <td align="center" width="165" style="border:none !important;padding:0 !important;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/selenium/FFFFFF" />
+          <img alt="Automation" src="https://cdn.simpleicons.org/selenium/000000" height="34" />
+        </picture>
+        <br>
+        <b>Automation</b>
+        <br>
+        <sub>Parsing · Flows</sub>
+      </td>
+      <td align="center" width="165" style="border:none !important;padding:0 !important;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ton/FFFFFF" />
+          <img alt="TON" src="https://cdn.simpleicons.org/ton/000000" height="34" />
+        </picture>
+        <br>
+        <b>TON</b>
+        <br>
+        <sub>Crypto · Integrations</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## <span style="position:relative;top:-1px">▍</span> Stack
