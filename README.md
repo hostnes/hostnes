@@ -14,7 +14,7 @@
 <div align="center">
   <h3>Scope</h3>
 
-  <p align="center">
+  <p align="center"><nobr>
     <span>
       <img alt="Telegram" src="https://cdn.simpleicons.org/telegram/000000#gh-light-mode-only" height="34" />
       <img alt="Telegram" src="https://cdn.simpleicons.org/telegram/FFFFFF#gh-dark-mode-only" height="34" />
@@ -22,8 +22,7 @@
       <b>Telegram</b>
       <br>
       <sub>Mini Apps · Bots</sub>
-    </span>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <span>
       <img alt="Backend" src="https://cdn.simpleicons.org/python/000000#gh-light-mode-only" height="34" />
       <img alt="Backend" src="https://cdn.simpleicons.org/python/FFFFFF#gh-dark-mode-only" height="34" />
@@ -31,8 +30,7 @@
       <b>Backend</b>
       <br>
       <sub>APIs · Services · Jobs</sub>
-    </span>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <span>
       <img alt="Web Apps" src="https://cdn.simpleicons.org/nextdotjs/000000#gh-light-mode-only" height="34" />
       <img alt="Web Apps" src="https://cdn.simpleicons.org/nextdotjs/FFFFFF#gh-dark-mode-only" height="34" />
@@ -40,8 +38,7 @@
       <b>Web Apps</b>
       <br>
       <sub>Sites · Interfaces · UI</sub>
-    </span>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <span>
       <img alt="Automation" src="https://cdn.simpleicons.org/selenium/000000#gh-light-mode-only" height="34" />
       <img alt="Automation" src="https://cdn.simpleicons.org/selenium/FFFFFF#gh-dark-mode-only" height="34" />
@@ -49,8 +46,7 @@
       <b>Automation</b>
       <br>
       <sub>Parsing · Flows</sub>
-    </span>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <span>
       <img alt="TON" src="https://cdn.simpleicons.org/ton/000000#gh-light-mode-only" height="34" />
       <img alt="TON" src="https://cdn.simpleicons.org/ton/FFFFFF#gh-dark-mode-only" height="34" />
@@ -59,7 +55,7 @@
       <br>
       <sub>Crypto · Integrations</sub>
     </span>
-  </p>
+  </nobr></p>
 </div>
 
 ## <span style="position:relative;top:-1px">▍</span> Stack
