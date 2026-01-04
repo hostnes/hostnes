@@ -2,40 +2,33 @@
   <style>
     .t1 { font: 700 16px ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial; fill: #fff; }
     .t2 { font: 500 12px ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial; fill: #fff; opacity: .75; }
-    .iconBox { fill: none; stroke: #fff; stroke-width: 2; }
-    .iconTxt { font: 800 14px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; fill: #fff; }
   </style>
 
   <rect x="0" y="0" width="980" height="140" fill="none"/>
 
   <g transform="translate(10,16)">
     <g transform="translate(0,0)">
-      <rect class="iconBox" x="78" y="0" width="34" height="34" rx="8"/>
-      <text class="iconTxt" x="95" y="22" text-anchor="middle">TG</text>
+      <image href="https://cdn.simpleicons.org/telegram/FFFFFF" x="78" y="0" width="34" height="34"/>
       <text class="t1" x="95" y="64" text-anchor="middle">Telegram</text>
       <text class="t2" x="95" y="86" text-anchor="middle">Mini Apps · Bots</text>
     </g>
     <g transform="translate(190,0)">
-      <rect class="iconBox" x="78" y="0" width="34" height="34" rx="8"/>
-      <text class="iconTxt" x="95" y="22" text-anchor="middle">API</text>
+      <image href="https://cdn.simpleicons.org/python/FFFFFF" x="78" y="0" width="34" height="34"/>
       <text class="t1" x="95" y="64" text-anchor="middle">Backend</text>
       <text class="t2" x="95" y="86" text-anchor="middle">APIs · Services · Jobs</text>
     </g>
     <g transform="translate(380,0)">
-      <rect class="iconBox" x="78" y="0" width="34" height="34" rx="8"/>
-      <text class="iconTxt" x="95" y="22" text-anchor="middle">AUTO</text>
+      <image href="https://cdn.simpleicons.org/selenium/FFFFFF" x="78" y="0" width="34" height="34"/>
       <text class="t1" x="95" y="64" text-anchor="middle">Automation</text>
       <text class="t2" x="95" y="86" text-anchor="middle">Parsing · Flows</text>
     </g>
     <g transform="translate(570,0)">
-      <rect class="iconBox" x="78" y="0" width="34" height="34" rx="8"/>
-      <text class="iconTxt" x="95" y="22" text-anchor="middle">TON</text>
+      <image href="https://cdn.simpleicons.org/ton/FFFFFF" x="78" y="0" width="34" height="34"/>
       <text class="t1" x="95" y="64" text-anchor="middle">TON</text>
       <text class="t2" x="95" y="86" text-anchor="middle">Crypto · Integrations</text>
     </g>
     <g transform="translate(760,0)">
-      <rect class="iconBox" x="78" y="0" width="34" height="34" rx="8"/>
-      <text class="iconTxt" x="95" y="22" text-anchor="middle">WEB</text>
+      <image href="https://cdn.simpleicons.org/nextdotjs/FFFFFF" x="78" y="0" width="34" height="34"/>
       <text class="t1" x="95" y="64" text-anchor="middle">Web Apps</text>
       <text class="t2" x="95" y="86" text-anchor="middle">Sites · Interfaces · UI</text>
     </g>
