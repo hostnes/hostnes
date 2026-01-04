@@ -14,9 +14,9 @@
 <div align="center">
   <h3>Focus</h3>
 
-  <table>
+  <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="border:0;border-collapse:separate;border-spacing:14px 0;">
     <tr>
-      <td align="center" width="165">
+      <td align="center" width="165" style="border:none;padding:10px 6px;">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/telegram/FFFFFF" />
           <img alt="Telegram" src="https://cdn.simpleicons.org/telegram/000000" height="34" />
@@ -26,7 +26,7 @@
         <br>
         <sub>Mini Apps · Bots</sub>
       </td>
-      <td align="center" width="165">
+      <td align="center" width="165" style="border:none;padding:10px 6px;">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/FFFFFF" />
           <img alt="Backend" src="https://cdn.simpleicons.org/python/000000" height="34" />
@@ -36,7 +36,7 @@
         <br>
         <sub>APIs · Services · Jobs</sub>
       </td>
-      <td align="center" width="165">
+      <td align="center" width="165" style="border:none;padding:10px 6px;">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/selenium/FFFFFF" />
           <img alt="Automation" src="https://cdn.simpleicons.org/selenium/000000" height="34" />
@@ -46,7 +46,7 @@
         <br>
         <sub>Parsing · Flows</sub>
       </td>
-      <td align="center" width="165">
+      <td align="center" width="165" style="border:none;padding:10px 6px;">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ton/FFFFFF" />
           <img alt="TON" src="https://cdn.simpleicons.org/ton/000000" height="34" />
@@ -56,7 +56,7 @@
         <br>
         <sub>Crypto · Integrations</sub>
       </td>
-      <td align="center" width="165">
+      <td align="center" width="165" style="border:none;padding:10px 6px;">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF" />
           <img alt="Web" src="https://cdn.simpleicons.org/nextdotjs/000000" height="34" />
