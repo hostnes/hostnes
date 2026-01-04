@@ -11,51 +11,34 @@
 
 <br>
 
-<div align="center">
+<div>
   <h3>Scope</h3>
 
-  <p align="center"><nobr>
-    <span>
-      <img alt="Telegram" src="https://cdn.simpleicons.org/telegram/000000#gh-light-mode-only" height="34" />
-      <img alt="Telegram" src="https://cdn.simpleicons.org/telegram/FFFFFF#gh-dark-mode-only" height="34" />
-      <br>
-      <b>Telegram</b>
-      <br>
-      <sub>Mini Apps · Bots</sub>
-    </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <span>
-      <img alt="Backend" src="https://cdn.simpleicons.org/python/000000#gh-light-mode-only" height="34" />
-      <img alt="Backend" src="https://cdn.simpleicons.org/python/FFFFFF#gh-dark-mode-only" height="34" />
-      <br>
-      <b>Backend</b>
-      <br>
-      <sub>APIs · Services · Jobs</sub>
-    </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <span>
-      <img alt="Web Apps" src="https://cdn.simpleicons.org/nextdotjs/000000#gh-light-mode-only" height="34" />
-      <img alt="Web Apps" src="https://cdn.simpleicons.org/nextdotjs/FFFFFF#gh-dark-mode-only" height="34" />
-      <br>
-      <b>Web Apps</b>
-      <br>
-      <sub>Sites · Interfaces · UI</sub>
-    </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <span>
-      <img alt="Automation" src="https://cdn.simpleicons.org/selenium/000000#gh-light-mode-only" height="34" />
-      <img alt="Automation" src="https://cdn.simpleicons.org/selenium/FFFFFF#gh-dark-mode-only" height="34" />
-      <br>
-      <b>Automation</b>
-      <br>
-      <sub>Parsing · Flows</sub>
-    </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <span>
-      <img alt="TON" src="https://cdn.simpleicons.org/ton/000000#gh-light-mode-only" height="34" />
-      <img alt="TON" src="https://cdn.simpleicons.org/ton/FFFFFF#gh-dark-mode-only" height="34" />
-      <br>
-      <b>TON</b>
-      <br>
-      <sub>Crypto · Integrations</sub>
-    </span>
-  </nobr></p>
+  <p>
+    <img alt="Telegram" src="https://cdn.simpleicons.org/telegram/000000#gh-light-mode-only" height="18" />
+    <img alt="Telegram" src="https://cdn.simpleicons.org/telegram/FFFFFF#gh-dark-mode-only" height="18" />
+    &nbsp;<b>Telegram</b> — <sub>Mini Apps · Bots</sub>
+  </p>
+  <p>
+    <img alt="Backend" src="https://cdn.simpleicons.org/python/000000#gh-light-mode-only" height="18" />
+    <img alt="Backend" src="https://cdn.simpleicons.org/python/FFFFFF#gh-dark-mode-only" height="18" />
+    &nbsp;<b>Backend</b> — <sub>APIs · Services · Jobs</sub>
+  </p>
+  <p>
+    <img alt="Web Apps" src="https://cdn.simpleicons.org/nextdotjs/000000#gh-light-mode-only" height="18" />
+    <img alt="Web Apps" src="https://cdn.simpleicons.org/nextdotjs/FFFFFF#gh-dark-mode-only" height="18" />
+    &nbsp;<b>Web Apps</b> — <sub>Sites · Interfaces · UI</sub>
+  </p>
+  <p>
+    <img alt="Automation" src="https://cdn.simpleicons.org/selenium/000000#gh-light-mode-only" height="18" />
+    <img alt="Automation" src="https://cdn.simpleicons.org/selenium/FFFFFF#gh-dark-mode-only" height="18" />
+    &nbsp;<b>Automation</b> — <sub>Parsing · Flows</sub>
+  </p>
+  <p>
+    <img alt="TON" src="https://cdn.simpleicons.org/ton/000000#gh-light-mode-only" height="18" />
+    <img alt="TON" src="https://cdn.simpleicons.org/ton/FFFFFF#gh-dark-mode-only" height="18" />
+    &nbsp;<b>TON</b> — <sub>Crypto · Integrations</sub>
+  </p>
 </div>
 
 ## <span style="position:relative;top:-1px">▍</span> Stack
