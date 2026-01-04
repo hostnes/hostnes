@@ -11,37 +11,16 @@
 
 <br>
 
-<div>
-  <h3>Scope</h3>
+<div align="center">
+  <h3>Focus</h3>
 
-  <p>
-    <img alt="Telegram" src="https://cdn.simpleicons.org/telegram/000000#gh-light-mode-only" height="18" />
-    <img alt="Telegram" src="https://cdn.simpleicons.org/telegram/FFFFFF#gh-dark-mode-only" height="18" />
-    &nbsp;<b>Telegram</b> — <sub>Mini Apps · Bots</sub>
-  </p>
-  <p>
-    <img alt="Backend" src="https://cdn.simpleicons.org/python/000000#gh-light-mode-only" height="18" />
-    <img alt="Backend" src="https://cdn.simpleicons.org/python/FFFFFF#gh-dark-mode-only" height="18" />
-    &nbsp;<b>Backend</b> — <sub>APIs · Services · Jobs</sub>
-  </p>
-  <p>
-    <img alt="Web Apps" src="https://cdn.simpleicons.org/nextdotjs/000000#gh-light-mode-only" height="18" />
-    <img alt="Web Apps" src="https://cdn.simpleicons.org/nextdotjs/FFFFFF#gh-dark-mode-only" height="18" />
-    &nbsp;<b>Web Apps</b> — <sub>Sites · Interfaces · UI</sub>
-  </p>
-  <p>
-    <img alt="Automation" src="https://cdn.simpleicons.org/selenium/000000#gh-light-mode-only" height="18" />
-    <img alt="Automation" src="https://cdn.simpleicons.org/selenium/FFFFFF#gh-dark-mode-only" height="18" />
-    &nbsp;<b>Automation</b> — <sub>Parsing · Flows</sub>
-  </p>
-  <p>
-    <img alt="TON" src="https://cdn.simpleicons.org/ton/000000#gh-light-mode-only" height="18" />
-    <img alt="TON" src="https://cdn.simpleicons.org/ton/FFFFFF#gh-dark-mode-only" height="18" />
-    &nbsp;<b>TON</b> — <sub>Crypto · Integrations</sub>
+  <p align="center">
+    <img alt="Focus" src="./assets/focus-light.svg#gh-light-mode-only" />
+    <img alt="Focus" src="./assets/focus-dark.svg#gh-dark-mode-only" />
   </p>
 </div>
 
-## <span style="position:relative;top:-1px">▍</span> Stack
+## ▍Stack
 
 ### Core
 

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="140" viewBox="0 0 980 140">
+  <style>
+    .t1 { font: 700 16px ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial; fill: #000; }
+    .t2 { font: 500 12px ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial; fill: #000; opacity: .72; }
+    .iconBox { fill: none; stroke: #000; stroke-width: 2; }
+    .iconTxt { font: 800 14px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; fill: #000; }
+  </style>
+
+  <rect x="0" y="0" width="980" height="140" fill="none"/>
+
+  <!-- spacing-only layout (no borders/cards) -->
+  <g transform="translate(10,16)">
+    <!-- helper: each column is 190px wide, center at x=95 -->
+
+    <g transform="translate(0,0)">
+      <rect class="iconBox" x="78" y="0" width="34" height="34" rx="8"/>
+      <text class="iconTxt" x="95" y="22" text-anchor="middle">TG</text>
+      <text class="t1" x="95" y="64" text-anchor="middle">Telegram</text>
+      <text class="t2" x="95" y="86" text-anchor="middle">Mini Apps · Bots</text>
+    </g>
+
+    <g transform="translate(190,0)">
+      <rect class="iconBox" x="78" y="0" width="34" height="34" rx="8"/>
+      <text class="iconTxt" x="95" y="22" text-anchor="middle">API</text>
+      <text class="t1" x="95" y="64" text-anchor="middle">Backend</text>
+      <text class="t2" x="95" y="86" text-anchor="middle">APIs · Services · Jobs</text>
+    </g>
+
+    <g transform="translate(380,0)">
+      <rect class="iconBox" x="78" y="0" width="34" height="34" rx="8"/>
+      <text class="iconTxt" x="95" y="22" text-anchor="middle">AUTO</text>
+      <text class="t1" x="95" y="64" text-anchor="middle">Automation</text>
+      <text class="t2" x="95" y="86" text-anchor="middle">Parsing · Flows</text>
+    </g>
+
+    <g transform="translate(570,0)">
+      <rect class="iconBox" x="78" y="0" width="34" height="34" rx="8"/>
+      <text class="iconTxt" x="95" y="22" text-anchor="middle">TON</text>
+      <text class="t1" x="95" y="64" text-anchor="middle">TON</text>
+      <text class="t2" x="95" y="86" text-anchor="middle">Crypto · Integrations</text>
+    </g>
+
+    <g transform="translate(760,0)">
+      <rect class="iconBox" x="78" y="0" width="34" height="34" rx="8"/>
+      <text class="iconTxt" x="95" y="22" text-anchor="middle">WEB</text>
+      <text class="t1" x="95" y="64" text-anchor="middle">Web Apps</text>
+      <text class="t2" x="95" y="86" text-anchor="middle">Sites · Interfaces · UI</text>
+    </g>
+  </g>
+</svg>
