@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=Hostnes&fontColor=FFFFFF&fontAlignY=38&desc=Telegram%20%E2%80%A2%20Mini%20Apps%20%E2%80%A2%20Systems%20%E2%80%A2%20Automation%20%E2%80%A2%20TON&descAlignY=63&descSize=18" />
+  <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=hostnes!&fontColor=FFFFFF&fontAlignY=38&desc=Telegram%20%E2%80%A2%20Mini%20Apps%20%E2%80%A2%20Systems%20%E2%80%A2%20Automation%20%E2%80%A2%20TON&descAlignY=63&descSize=18" />
 </div>
 
 <p align="center">
